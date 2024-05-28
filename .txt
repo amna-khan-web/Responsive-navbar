@@ -1,0 +1,7 @@
+how do y0u creat a table in html.  {table,tr,td,th} 
+what is the purposeof div tag {its work like a container..}
+form creat{ label,input,action attribute,}
+which tag is used for inline frame{Iframe}.
+Html is a standard markup language for creating a webpages while Xhtml
+div and span difference?
+what is semantric elements?
