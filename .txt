@@ -5,3 +5,8 @@ which tag is used for inline frame{Iframe}.
 Html is a standard markup language for creating a webpages while Xhtml
 div and span difference?
 what is semantric elements?
+
+                            <!-- 02-June-2024   
+                                Alerts-->
+"role is a attribute in alert"
+if we want styling on link we use alert-link class..
