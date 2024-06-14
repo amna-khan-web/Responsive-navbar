@@ -10,3 +10,27 @@ what is semantric elements?
                                 Alerts-->
 "role is a attribute in alert"
 if we want styling on link we use alert-link class..
+
+                09-June-2024
+
+list-group-item action active ---> arial-current=true....
+list-group-item flush 
+carousel
+acordions
+Alertsbadge
+button
+buttongroup
+list group
+
+layout
+component{half}
+
+
+
+
+making navbar with fix logo {Home, about, product, contact us}{ facebook, instagram, twitter,linkdin}
+
+    ""with colours of their icon""
+backgroundcolor {red}, pages name{ white and bold after hover black color}
+
+
